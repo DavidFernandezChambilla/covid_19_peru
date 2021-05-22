@@ -1,0 +1,110 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix log: <http://www.w3.org/2000/10/swap/log#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://casoscovid19/peru/LIMA+METROPOLITANA> rdf:direction "LIMA METROPOLITANA";
+  rdf:value "802255";
+  log:equalTo "26135" .
+
+<http://casoscovid19/peru/CALLAO> rdf:direction "CALLAO";
+  rdf:value "94182";
+  log:equalTo "3393" .
+
+<http://casoscovid19/peru/LA+LIBERTAD> rdf:direction "LA LIBERTAD";
+  rdf:value "74692";
+  log:equalTo "4085" .
+
+<http://casoscovid19/peru/AREQUIPA> rdf:direction "AREQUIPA";
+  rdf:value "79339";
+  log:equalTo "2756" .
+
+<http://casoscovid19/peru/MOQUEGUA> rdf:direction "MOQUEGUA";
+  rdf:value "24145";
+  log:equalTo "577" .
+
+<http://casoscovid19/peru/CUSCO> rdf:direction "CUSCO";
+  rdf:value "60178";
+  log:equalTo "1369" .
+
+<http://casoscovid19/peru/LAMBAYEQUE> rdf:direction "LAMBAYEQUE";
+  rdf:value "54093";
+  log:equalTo "2701" .
+
+<http://casoscovid19/peru/PIURA> rdf:direction "PIURA";
+  rdf:value "75720";
+  log:equalTo "3247" .
+
+<http://casoscovid19/peru/AMAZONAS> rdf:direction "AMAZONAS";
+  rdf:value "27917";
+  log:equalTo "504" .
+
+<http://casoscovid19/peru/ICA> rdf:direction "ICA";
+  rdf:value "51250";
+  log:equalTo "3000" .
+
+<http://casoscovid19/peru/JUNIN> rdf:direction "JUNIN";
+  rdf:value "69184";
+  log:equalTo "2465" .
+
+<http://casoscovid19/peru/ANCASH> rdf:direction "ANCASH";
+  rdf:value "67736";
+  log:equalTo "2944" .
+
+<http://casoscovid19/peru/CAJAMARCA> rdf:direction "CAJAMARCA";
+  rdf:value "56548";
+  log:equalTo "1452" .
+
+<http://casoscovid19/peru/HUANUCO> rdf:direction "HUANUCO";
+  rdf:value "31363";
+  log:equalTo "1050" .
+
+<http://casoscovid19/peru/APURIMAC> rdf:direction "APURIMAC";
+  rdf:value "22135";
+  log:equalTo "587" .
+
+<http://casoscovid19/peru/PUNO> rdf:direction "PUNO";
+  rdf:value "31228";
+  log:equalTo "964" .
+
+<http://casoscovid19/peru/TACNA> rdf:direction "TACNA";
+  rdf:value "24595";
+  log:equalTo "806" .
+
+<http://casoscovid19/peru/LORETO> rdf:direction "LORETO";
+  rdf:value "39490";
+  log:equalTo "1411" .
+
+<http://casoscovid19/peru/SAN+MARTIN> rdf:direction "SAN MARTIN";
+  rdf:value "42977";
+  log:equalTo "1293" .
+
+<http://casoscovid19/peru/AYACUCHO> rdf:direction "AYACUCHO";
+  rdf:value "28108";
+  log:equalTo "821" .
+
+<http://casoscovid19/peru/HUANCAVELICA> rdf:direction "HUANCAVELICA";
+  rdf:value "14288";
+  log:equalTo "424" .
+
+<http://casoscovid19/peru/PASCO> rdf:direction "PASCO";
+  rdf:value "13834";
+  log:equalTo "423" .
+
+<http://casoscovid19/peru/TUMBES> rdf:direction "TUMBES";
+  rdf:value "16210";
+  log:equalTo "600" .
+
+<http://casoscovid19/peru/UCAYALI> rdf:direction "UCAYALI";
+  rdf:value "30933";
+  log:equalTo "978" .
+
+<http://casoscovid19/peru/MADRE+DE+DIOS> rdf:direction "MADRE DE DIOS";
+  rdf:value "13010";
+  log:equalTo "238" .
+
+<http://casoscovid19/peru/LIMA+REGI%C3%93N> rdf:direction "LIMA REGIÓN";
+  rdf:value "64950";
+  log:equalTo "3030" .
