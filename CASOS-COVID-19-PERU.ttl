@@ -1,0 +1,101 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://casoscovid/peru/2021/LA+LIBERTAD> rdf:subject "LA LIBERTAD";
+  owl:onDatatype "2021-05-05"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "3829.0", "67664.0" .
+
+<http://casoscovid/peru/2021/AREQUIPA> rdf:subject "AREQUIPA";
+  owl:onDatatype "2021-05-05"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "2510.0", "73589.0" .
+
+<http://casoscovid/peru/2021/MOQUEGUA> rdf:subject "MOQUEGUA";
+  owl:onDatatype "2021-05-05"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "23417.0", "538.0" .
+
+<http://casoscovid/peru/2021/CUSCO> rdf:subject "CUSCO";
+  owl:onDatatype "2021-05-05"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "1227.0", "55747.0" .
+
+<http://casoscovid/peru/2021/LAMBAYEQUE> rdf:subject "LAMBAYEQUE";
+  owl:onDatatype "2021-05-05"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "2562.0", "51278.0" .
+
+<http://casoscovid/peru/2021/PIURA> rdf:subject "PIURA";
+  owl:onDatatype "2021-05-05"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "3039.0", "71692.0" .
+
+<http://casoscovid/peru/2021/AMAZONAS> rdf:subject "AMAZONAS";
+  owl:onDatatype "2021-05-05"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "26697.0", "463.0" .
+
+<http://casoscovid/peru/2021/ICA> rdf:subject "ICA";
+  owl:onDatatype "2021-05-05"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "2825.0", "49232.0" .
+
+<http://casoscovid/peru/2021/JUNIN> rdf:subject "JUNIN";
+  owl:onDatatype "2021-05-05"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "2200.0", "63583.0" .
+
+<http://casoscovid/peru/2021/ANCASH> rdf:subject "ANCASH";
+  owl:onDatatype "2021-05-05"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "2704.0", "63877.0" .
+
+<http://casoscovid/peru/2021/CAJAMARCA> rdf:subject "CAJAMARCA";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "1291.0", "52805.0" .
+
+<http://casoscovid/peru/2021/HUANUCO> rdf:subject "HUANUCO";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "30286.0", "966.0" .
+
+<http://casoscovid/peru/2021/APURIMAC> rdf:subject "APURIMAC";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "19976.0", "500.0" .
+
+<http://casoscovid/peru/2021/PUNO> rdf:subject "PUNO";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "29300.0", "856.0" .
+
+<http://casoscovid/peru/2021/TACNA> rdf:subject "TACNA";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "23606.0", "763.0" .
+
+<http://casoscovid/peru/2021/LORETO> rdf:subject "LORETO";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "1386.0", "38648.0" .
+
+<http://casoscovid/peru/2021/SAN+MARTIN> rdf:subject "SAN MARTIN";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "1200.0", "40875.0" .
+
+<http://casoscovid/peru/2021/AYACUCHO> rdf:subject "AYACUCHO";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "26729.0", "748.0" .
+
+<http://casoscovid/peru/2021/HUANCAVELICA> rdf:subject "HUANCAVELICA";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "13395.0", "384.0" .
+
+<http://casoscovid/peru/2021/PASCO> rdf:subject "PASCO";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "13103.0", "375.0" .
+
+<http://casoscovid/peru/2021/TUMBES> rdf:subject "TUMBES";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "15359.0", "563.0" .
+
+<http://casoscovid/peru/2021/UCAYALI> rdf:subject "UCAYALI";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "30184.0", "928.0" .
+
+<http://casoscovid/peru/2021/MADRE+DE+DIOS> rdf:subject "MADRE DE DIOS";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "12746.0", "231.0" .
+
+<http://casoscovid/peru/2021/LIMA> rdf:subject "LIMA";
+  owl:onDatatype "Wed May 05 00:00:00 COT 2021"^^<http://www.w3.org/2001/XMLSchema#date>;
+  owl:targetValue "30888.0", "930669.0" .
